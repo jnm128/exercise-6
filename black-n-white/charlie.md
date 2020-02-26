@@ -9,8 +9,7 @@
     <header>
       <h1>Meet the Cats</h1>
       <h2>Charlie</h2>
-
-      <nav>
+  <nav>
         <ul>
           <li><a href="">Home</a></li>
           <li><a href="">Charlie</a></li>
@@ -23,16 +22,16 @@
       </nav>
     </header>
 
-    <main>
+  <main>
 
-      <img src="" alt="Charlie" />
+  <img src="img/charlie.jpg" alt="Charlie" />
 
-      <ul>
+  <ul>
         <li><strong>Owner of:</strong> Daren</li>
         <li><strong>Type:</strong> Black &amp; White</li>
         <li><strong>Favorite food:</strong> Fried Chicken</li>
       </ul>
 
-    </main>
+   </main>
   </body>
 </html>
