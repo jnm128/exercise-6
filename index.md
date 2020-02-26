@@ -9,8 +9,7 @@
   <body>
     <header>
       <h1>Meet the Cats</h1>
-
-      <nav>
+   <nav>
         <ul>
           <li>Home</li>
           <li><a href="black-n-white/charlie.html">Charlie</a></li>
